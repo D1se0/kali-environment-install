@@ -1,5 +1,0 @@
----[GitHub Repository]----
-
-https://github.com/ZLCube/AutoBspwm
-
---------------------------
