@@ -1,45 +1,54 @@
 ## Kali Environment Install
 
-----
-
-Important!, install kali from an ISO, since machines prepared for virtual machines will fail...
+### Important!, install kali from an ISO, since machines prepared for virtual machines will fail...
 
 https://www.kali.org/get-kali/#kali-installer-images
 
 ----
 
-Credits:
+## Credits:
 
 https://github.com/ZLCube/AutoBspwm
 
 ----
 
-[!] Run everything with the normal user, without being root.
+### [!] Run everything with the normal user, without being root.
 
 ----
 
-Download the installation tool:
+## Download the installation tool:
 
+```bash
 git clone https://github.com/ZLCube/AutoBspwm.git
+```
+## Move inside the tool folder:
 
-Move inside the tool folder:
-
+```bash
 cd AutoBspwm/
+```
 
-Important steps to follow for installation:
+## Important steps to follow for installation:
 
+```bash
 sudo apt update
+```
 
+```bash
 sudo apt upgrade -y
+```
 
+```bash
 sudo apt update
 sudo apt install -y zenity
+```
 
 ----
 
-To start running the tool and install the new environment:
+## To start running the tool and install the new environment:
 
+```bash
 ./AutoInstall.sh
+```
 
 And it will give you 2 options, since we are in Kali, we will write option 1...
 
@@ -57,45 +66,45 @@ And we would already be in the new environment of Kali...
 
 ----
 
-Key shortcuts:
+## Key shortcuts:
 
-Windows + Enter = cmd window
+`Windows + Enter` = cmd window
 
-Windows + w = ​​Delete 1 window from cmd
+`Windows + w` = ​​Delete 1 window from cmd
 
-Ctrl + windows + Alt + (Arrows) = Put ​​a cmd on the selected arrow parts
+`Ctrl + windows + Alt + (Arrows)` = Put ​​a cmd on the selected arrow parts
 
-Ctrl + windows + (Numbers) = Resize the new cmd to your liking with numbers
+`Ctrl + windows + (Numbers)` = Resize the new cmd to your liking with numbers
 
-windows + Enter (With the previous selection) = A cmd will open with the established dimensions
+`windows + Enter (With the previous selection)` = A cmd will open with the established dimensions
 
-Windows + s = Becomes a smaller cmd
+`Windows + s` = Becomes a smaller cmd
 
-Ctrl + Windows + (Arrows) = To move the cmd created with the shortcut (Windows + s)
+`Ctrl + Windows + (Arrows)` = To move the cmd created with the shortcut (Windows + s)
 
-Windows + Alt + (Arrows) = To resize the cmd created with the shortcut (Windows + s)
+`Windows + Alt + (Arrows)` = To resize the cmd created with the shortcut (Windows + s)
 
-Windows + t = To put it back in the cmd box
+`Windows + t` = To put it back in the cmd box
 
-windows + d = Open the rofi
+`windows + d` = Open the rofi
 
 If we want to add a new command to execute in the 'sxh...' file when we have implemented it we have to do...
 
-windows + r = restart terminal
+`windows + r` = restart terminal
 
-windows + esc 
+`windows + esc` 
 
 With this, the implementation is now official.
 
-windows + (1-9) = to move between windows
+`windows + (1-9)` = to move between windows
 
-windows + shift + (1-9) = To move something to that chosen window
+`windows + shift + (1-9)` = To move something to that chosen window
 
-windows + shift + f = open firefox safely
+`windows + shift + f` = open firefox safely
 
 ----
 
-Corrupt 'zsh' terminal solution (clear error message and troubleshoot):
+## Corrupt **zsh** terminal solution (clear error message and troubleshoot):
 
 To solve the 'zsh' terminal error we will do the following...
 
