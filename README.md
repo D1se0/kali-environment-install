@@ -68,6 +68,8 @@ And we would already be in the new environment of Kali...
 
 ![select_option](https://github.com/D1se0/kali-environment-install/assets/164921056/60e5c437-56e4-498e-9c90-abdbbc6ed37d)
 
+How would it look...
+
 ![Cap2](https://github.com/D1se0/kali-environment-install/assets/164921056/36e32050-3277-4294-83ff-5526f811bf97)
 
 ----
@@ -140,6 +142,7 @@ touch ~/.zsh_history
 ```bash
 chmod 600 ~/.zsh_history
 ```
+----
 
 ![Cap1](https://github.com/D1se0/kali-environment-install/assets/164921056/8fd85c83-2aaa-40ab-a889-a8383be37b9b)
 
