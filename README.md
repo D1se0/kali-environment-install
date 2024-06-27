@@ -1,6 +1,6 @@
 ## Kali Environment Install
 
-### Important!, install kali from an ISO, since machines prepared for virtual machines will fail...
+### Important!, install kali from an `ISO`, since machines prepared for virtual machines will fail...
 
 https://www.kali.org/get-kali/#kali-installer-images
 
@@ -52,15 +52,15 @@ sudo apt install -y zenity
 
 And it will give you 2 options, since we are in Kali, we will write option 1...
 
-Once everything is being installed, a box will appear with the title 'Select an option'. If this appears, everything is going well, but we will leave that box aside to select it as the last option after the terminal finishes processing everything...
+Once everything is being installed, a box will appear with the title `Select an option`. If this appears, everything is going well, but we will leave that box aside to select it as the last option after the terminal finishes processing everything...
 
-When 'Select a Theme in the Theme Selector' appears in the terminal, that is when we will have to select it, for example we will click on 'S4vi' and click 'Ok'
+When `Select a Theme in the Theme Selector` appears in the terminal, that is when we will have to select it, for example we will click on `S4vi` and click `Ok`
 
-Afterwards it will load another box and we will have to choose the theme but specifically the box that is seen, it will not affect the aesthetics of the environment, for example I recommend the 'android_notification by Rasi' we press 'Enter' to select it and then 'Alt+A'
+Afterwards it will load another box and we will have to choose the theme but specifically the box that is seen, it will not affect the aesthetics of the environment, for example I recommend the `android_notification by Rasi` we press `Enter` to select it and then `Alt+A`
 
 This will confirm the selection and take us to the login menu, in which we will click on the option of the 3 stripes on the right above...
 
-And click on the 'bspwm' option, once that is selected, we will register with our normal credentials...
+And click on the `bspwm` option, once that is selected, we will register with our normal credentials...
 
 And we would already be in the new environment of Kali...
 
@@ -106,24 +106,32 @@ With this, the implementation is now official.
 
 ## Corrupt `zsh` terminal solution (clear error message and troubleshoot):
 
-To solve the 'zsh' terminal error we will do the following...
+To solve the `zsh` terminal error we will do the following...
 
 sudo su
 
+```bash
 nano ~/.zshrc
 
 #Inside the nano
 # Rest of the normal code (Put it on the last line)
 
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+```
 
 Having finished the above, continue with the solution...
 
+```bash
 mv ~/.zsh_history ~/.zsh_history_bad
+```
 
+```bash
 touch ~/.zsh_history
+```
 
+```bash
 chmod 600 ~/.zsh_history
+```
 
 [Machine start capture]
 
