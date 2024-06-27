@@ -64,6 +64,10 @@ And click on the `bspwm` option, once that is selected, we will register with ou
 
 And we would already be in the new environment of Kali...
 
+![Menu_option](https://github.com/D1se0/kali-environment-install/assets/164921056/d6794dc0-ead5-4c00-a50b-7f25d7e086f0)
+
+![select_option](https://github.com/D1se0/kali-environment-install/assets/164921056/60e5c437-56e4-498e-9c90-abdbbc6ed37d)
+
 ----
 
 ## Key shortcuts:
