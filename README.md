@@ -108,7 +108,9 @@ With this, the implementation is now official.
 
 To solve the `zsh` terminal error we will do the following...
 
+```bash
 sudo su
+```
 
 ```bash
 nano ~/.zshrc
