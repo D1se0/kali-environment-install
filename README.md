@@ -68,6 +68,8 @@ And we would already be in the new environment of Kali...
 
 ![select_option](https://github.com/D1se0/kali-environment-install/assets/164921056/60e5c437-56e4-498e-9c90-abdbbc6ed37d)
 
+![Cap2](https://github.com/D1se0/kali-environment-install/assets/164921056/36e32050-3277-4294-83ff-5526f811bf97)
+
 ----
 
 ## Key shortcuts:
@@ -139,7 +141,7 @@ touch ~/.zsh_history
 chmod 600 ~/.zsh_history
 ```
 
-[Machine start capture]
+![Cap1](https://github.com/D1se0/kali-environment-install/assets/164921056/8fd85c83-2aaa-40ab-a889-a8383be37b9b)
 
 If you see the following 'error', it is not really an error, it is solved by restarting the machine and it will log you in...
 
