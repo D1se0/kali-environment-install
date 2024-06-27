@@ -35,7 +35,7 @@ Before beginning the installation, make sure your system meets the following min
 
 ## Credits:
 
-https://github.com/ZLCube/AutoBspwm
+[Repositorio GitHub Herramienta](https://github.com/ZLCube/AutoBspwm)
 
 ----
 
