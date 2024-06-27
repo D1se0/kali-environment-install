@@ -104,7 +104,7 @@ With this, the implementation is now official.
 
 ----
 
-## Corrupt **zsh** terminal solution (clear error message and troubleshoot):
+## Corrupt `zsh` terminal solution (clear error message and troubleshoot):
 
 To solve the 'zsh' terminal error we will do the following...
 
