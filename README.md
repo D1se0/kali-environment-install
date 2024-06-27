@@ -2,7 +2,33 @@
 
 ### Important!, install kali from an `ISO`, since machines prepared for virtual machines will fail...
 
-- [Descargar Kali Linux ISO](https://www.kali.org/get-kali/#kali-installer-images)
+### Installation Images:
+
+- **Installation ISO**: Used to install Kali Linux on a hard drive. Ideal for installations on physical computers and virtual machines.
+  - [Descargar Kali Linux ISO](https://www.kali.org/get-kali/#kali-installer-images)
+
+[WARNING] Not recommended for this type of environments!
+
+- **Virtual Images**: Pre-built images for VMware and VirtualBox.
+  - [Download Virtual Images](https://www.kali.org/get-kali/#kali-virtual-images)
+- **ARM images**: For ARM-based devices such as Raspberry Pi.
+  - [Download ARM Images](https://www.kali.org/get-kali/#kali-arm-images)
+
+### Alternative Installation Methods
+
+- **Installation on Windows**: Using the Windows Subsystem for Linux (WSL).
+  - [WSL Installation Guide](https://www.kali.org/docs/wsl/win-kex/)
+- **Cloud Installation**: Configure Kali on cloud services such as AWS, Azure and Google Cloud.
+  - [Cloud Installation Guide](https://www.kali.org/docs/cloud/)
+
+### System Requirements
+
+Before beginning the installation, make sure your system meets the following minimum requirements:
+
+- **Processor**: AMD64 (Intel and AMD) or ARM (Raspberry Pi)
+- **RAM Memory**: 2 GB
+- **Disk Space**: 20 GB
+- **Internet Connection**: To download packages during installation.
 
 ----
 
