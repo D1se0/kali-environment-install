@@ -99,6 +99,12 @@ How would it look...
 
 ![Cap2](https://github.com/D1se0/kali-environment-install/assets/164921056/36e32050-3277-4294-83ff-5526f811bf97)
 
+### Set the keyboard to Spanish, in case it came by default in English from the terminal:
+
+```bash
+setxkbmap es
+```
+
 ----
 
 ## Key shortcuts:
