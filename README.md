@@ -2,7 +2,7 @@
 
 ### Important!, install kali from an `ISO`, since machines prepared for virtual machines will fail...
 
-https://www.kali.org/get-kali/#kali-installer-images
+- [Descargar Kali Linux ISO](https://www.kali.org/get-kali/#kali-installer-images)
 
 ----
 
