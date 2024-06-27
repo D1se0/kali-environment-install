@@ -144,6 +144,8 @@ chmod 600 ~/.zsh_history
 ```
 ----
 
+### [!] Possible error:
+
 ![Cap1](https://github.com/D1se0/kali-environment-install/assets/164921056/8fd85c83-2aaa-40ab-a889-a8383be37b9b)
 
 If you see the following 'error', it is not really an error, it is solved by restarting the machine and it will log you in...
