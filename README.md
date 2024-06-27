@@ -4,8 +4,8 @@
 
 ### Installation Images:
 
---> - **Installation ISO**: Used to install Kali Linux on a hard drive. Ideal for installations on physical computers and virtual machines. <--
-  - [Descargar Kali Linux ISO](https://www.kali.org/get-kali/#kali-installer-images)
+- **Installation ISO**: Used to install Kali Linux on a hard drive. Ideal for installations on physical computers and virtual machines.
+-->  - [Descargar Kali Linux ISO](https://www.kali.org/get-kali/#kali-installer-images) <--
 
 [WARNING] Not recommended for this type of environments!
 
